@@ -5,3 +5,8 @@
 
 
 ### Your Code Here ###
+# my birthday is 12/04/1998
+def my_age_in_days
+  (365.25*20+24)
+end
+puts 'My age in days is ' + my_age_in_days.to_s + ' days.'

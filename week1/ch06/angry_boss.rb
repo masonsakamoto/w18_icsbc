@@ -4,3 +4,9 @@
 
 
 ### Your Code Here ###
+wdyw = 'What do you want?!'
+puts wdyw.upcase
+
+want= gets.chomp
+
+puts want.to_s.upcase + '?! You\'re fired!'
