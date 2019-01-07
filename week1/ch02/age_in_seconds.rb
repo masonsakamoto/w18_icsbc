@@ -36,3 +36,4 @@ def berkeley_age_seconds
 end
 
 puts 'Berkeley\'s age in seconds is ' + berkeley_age_seconds.to_s + ' .'
+## oopsies sorry I did my best not sure how to get it to put out exactly right seconds without manually inputting result from internet.
